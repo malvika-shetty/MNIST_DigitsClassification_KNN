@@ -7,6 +7,6 @@ Finding the k closest examples to x(test) from the dataset, i.e. kNN(x(test)) = 
 The predicted class label y(test) is the result of a majority vote
 
 
-Jupyter Notebook : MNIST_CLassification_KNN.ipynb
+Jupyter Notebook : MNIST_DigitsClassification_KNN.ipynb
 
-The dataset is named as : MNIST_Classification_dataset.npy
+The dataset is named as : MNIST_Digits_dataset.npy
