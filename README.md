@@ -10,3 +10,6 @@ The predicted class label y(test) is the result of a majority vote
 Jupyter Notebook : MNIST_DigitsClassification_KNN.ipynb
 
 The dataset is named as : MNIST_Digits_dataset.npy
+
+
+Author: Malvika Dayanand Shetty
